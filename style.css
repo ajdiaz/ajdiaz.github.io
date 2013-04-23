@@ -365,6 +365,7 @@ h1 {
 	display:block;
 	float:left;
 	opacity:0.4;
+	margin-right:10px;
 }
 
 .logo a {
