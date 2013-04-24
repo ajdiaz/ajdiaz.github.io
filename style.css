@@ -393,5 +393,6 @@ a.google { background-image:url("google.png") }
 a.linkedin { background-image:url("linkedin.png") }
 a.github { background-image:url("github.png") }
 a.wordpress { background-image:url("wordpress.png") }
+a.geeklist { background-image:url("geeklist.png") }
 
 a { text-decoration:none; color:#fff; }
